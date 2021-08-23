@@ -1,0 +1,38 @@
+html {
+
+}
+
+body {
+    background-color: cadetblue;
+    font-family: sans-serif;
+}
+
+div {
+    /*border: 1px solid #fff; */
+}
+
+#container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    width: 95%;
+    padding: 10px;
+}
+
+.selections {
+    width: 30%;
+    padding-top: 5px;
+    font-size: 1.2rem;
+}
+
+.selections div {
+    padding-top: 5px;
+    list-style: none;
+}
+
+#specimen {
+    width: 70%;
+    font-size: 1.5rem;
+    font-family: Mali, cursive;
+}
